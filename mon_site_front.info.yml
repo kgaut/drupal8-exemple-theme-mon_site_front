@@ -1,0 +1,10 @@
+name: Mon Site Front
+type: theme
+description: Mon theme de demonstration
+package: MonSite
+core: 8.x
+libraries:
+  - mon_site_front/global-styling
+
+base theme: bartik
+
